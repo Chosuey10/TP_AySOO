@@ -1,0 +1,15 @@
+total 60
+drwxr-x--- 7 vagrant vagrant 4096 Oct  7 22:01 .
+drwxr-xr-x 4 root    root    4096 Oct  7 20:50 ..
+-rw------- 1 vagrant vagrant 1784 Oct  7 22:38 .bash_history
+-rw-r--r-- 1 vagrant vagrant  220 Aug 29 11:08 .bash_logout
+-rw-r--r-- 1 vagrant vagrant 4251 Oct  7 20:51 .bashrc
+drwx------ 2 vagrant vagrant 4096 Oct  7 20:50 .cache
+-rw-rw-r-- 1 vagrant vagrant   57 Oct  7 22:01 .gitconfig
+-rw------- 1 vagrant vagrant   20 Oct  7 21:54 .lesshst
+-rw-r--r-- 1 vagrant vagrant  807 Aug 29 11:08 .profile
+drwx------ 2 vagrant vagrant 4096 Oct  7 21:08 .ssh
+-rw-r--r-- 1 root    root       5 Oct  7 20:51 README
+drwxrwxr-x 3 vagrant vagrant 4096 Oct  7 21:09 TP_AySO
+drwxrwxrwx 1 vagrant vagrant 4096 Oct  7 20:36 carpeta_compartida
+drwxrwxr-x 4 vagrant vagrant 4096 Oct  7 21:18 repogit
